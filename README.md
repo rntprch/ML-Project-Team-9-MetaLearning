@@ -8,7 +8,7 @@ This repository contains the datasets and code needed to reproduce experiments f
 
 The goal of the project was to use the meta-learning algorithm to predict the best suited model to predict time series. Picking a suitable model is time consuming and computationally expensive - especially with many choices of models and large number of time series to predict. So, our approach can save plenty of time.
 
-### Requirements
+## Requirements
 In order to launch the project, you need to install or update the following packs:
 - numpy (1.24.3 or newer);
 - pandas (2.0.1 or newer);
